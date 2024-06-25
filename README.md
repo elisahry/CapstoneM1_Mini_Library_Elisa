@@ -16,4 +16,4 @@ Pada program ini, terdapat lima fitur utama dan dua fitur tambahan, yaitu:
 - **Fitur Borrow Book**: meminjam buku berdasarkan 'ID' buku dengan menampilkan stok buku yang ter-update
 - **Fitur Return Book**: mengembalikan data buku dalam list peminjaman dan menampilkan stok buku yang ter-update
 
-Pada program ini terdapat enam data key yang digunakan, yaitu ID, Judul, Penulis, Penerbit, Kategor, dan Stok. Di mana ID digunakan sebagai 'primary key' atau 'unique column' pada program perpustakaan tersebut. 
+Pada program ini terdapat enam data key yang digunakan, yaitu ID, Judul, Penulis, Penerbit, Kategor, dan Stok. Di mana ID digunakan sebagai 'primary key' atau 'unique column' pada program perpustakaan tersebut. Untuk menampilkan daftar buku dalam tabel menggunakan fitur tabulate.
